@@ -1,0 +1,10 @@
+C:\Users\Nate Lancto\Documents\Visual Studio 2015\Projects\Scouting mk2\Scouting mk2\bin\Release\Scouting mk2.exe.config
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\bin\Release\Scouting mk2.exe
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\bin\Release\Scouting mk2.pdb
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting_mk2.Form1.resources
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting_mk2.Properties.Resources.resources
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting mk2.csproj.GenerateResource.Cache
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting mk2.exe
+c:\users\nate lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting mk2.pdb
+C:\Users\Nate Lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting mk2.csprojResolveAssemblyReference.cache
+C:\Users\Nate Lancto\documents\visual studio 2015\Projects\Scouting mk2\Scouting mk2\obj\Release\Scouting mk2.TrustInfo.xml
